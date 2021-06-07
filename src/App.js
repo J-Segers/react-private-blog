@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import Home from "./Home";
 
 function App() {
   // We houden in de state bij of iemand is "ingelogd" (simpele versie)
